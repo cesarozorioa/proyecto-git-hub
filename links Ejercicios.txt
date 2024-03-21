@@ -1,0 +1,39 @@
+https://plataforma.josedomingo.org/pledin/cursos/curso_cpp2/curso/u09/
+https://www.daypo.com/fundamentos-programacion-12.html#test
+Video de configuración de C++ en VScode : https://youtu.be/G5dS-Zw_a-E
+Entornos Virtuales en python: https://youtu.be/N9PdRkXOQ4w
+Explicacion de modulos, paquetes:https://j2logo.com/python/tutorial/espacios-de-nombres-modulos-y-paquetes/
+Vscode y python: https://www.youtube.com/watch?v=gK77l6jBEjo
+http://blog.espol.edu.ec/ccpg1001/unidades/
+enlace curso de git
+https://www.youtube.com/watch?v=VdGzPZ31ts8
+https://www.youtube.com/watch?v=AYbgqmyg7dk
+Manejo de archivos
+https://www.youtube.com/watch?v=GaqgqQL3wnQ
+archivos binarios
+https://www.youtube.com/watch?v=aT2BWcQwz5c
+https://www.youtube.com/watch?v=LSJsOZ9onSw
+pagina para manuales
+https://manual-informatica.com/download-file.html
+curso de lenguaje SQL
+https://www.tutorialesprogramacionya.com/sqlserverya/index.php?inicio=0
+link curso_contenido de JavaScripti
+https://github.com/falconmasters/curso-javascript/blob/master/Introducci%C3%B3n/estilos.css
+link funciones en python
+https://ellibrodepython.com/funciones-en-python
+Manejo de Archivos C++
+http://www.programacionenc.net/index.php?option=com_content&view=article&id=69:manejo-de-archivos-en-c&catid=37:programacion-cc
+https://www.youtube.com/watch?v=c0nzxdXFH4I
+https://www.youtube.com/watch?v=W2UaRzB2uEQ
+https://www.youtube.com/watch?v=pc_cAb39j0o
+https://www.youtube.com/watch?v=nRxiV4NQnCM&list=PLN-xVaranH31Y7fcHnyMRsd718ItR7gl8&index=6
+Manejo de cadena de caracteres
+https://pertusa.gitbooks.io/programacion-2/content/strings/strings.html
+curso de word
+https://www.youtube.com/watch?v=n0yn3TZ1lSQ&t=191s
+Ejercicios de Modelo Entidad Relacion
+https://bdalfonso.blogspot.com/2013/06/modelo-err-ejercicios-resueltos.html
+Ejemplos de Bases de Datos
+https://gestionbasesdatos.readthedocs.io/es/stable/Tema2/Actividades.html
+Ejercicios de recursidad
+https://www.programaenlinea.net/ejercicios-recursividad-c/
